@@ -16,7 +16,7 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed&family=Montserrat&display=swap');
 
 :root {
   --green: hsl(155deg 16% 76%);
@@ -28,7 +28,7 @@ body {
   background-color: var(--grey);
 }
 #app {
-  font-family: 'Lora', Helvetica, Arial, sans-serif;
+  font-family: 'Asap Condensed', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
